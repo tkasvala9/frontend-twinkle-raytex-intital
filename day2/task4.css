@@ -1,0 +1,47 @@
+.header{
+   
+    background-color: aquamarine;
+    color: brown;
+    
+    
+}
+.body{
+    margin: 10px;
+    
+    height: 550px;
+    width: 1250px ;
+    float: left;  
+}
+.footer{
+    margin-top: 565px;
+    text-align: center;
+    background-color: aquamarine;
+    
+    color: brown;
+    height: 50px;
+    width: 1250px;
+    
+}
+.flats{
+    
+    margin-left:500px;
+}
+.bunglows{
+    
+    margin-left: 50px;
+}
+.home{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.rawhouse{
+    margin-left: 50px;
+}
+.pg{
+    margin-left: 50px;
+}
+.hotels{
+    margin-left: 50px;
+}
