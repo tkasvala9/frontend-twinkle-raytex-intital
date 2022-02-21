@@ -1,0 +1,41 @@
+input{
+    text-align: center;
+    font-size: x-large;
+    
+}
+form{
+    margin-top: 80px;
+    text-align: center;
+    font-size: x-large;
+}
+body{
+    background-color: teal;
+}
+button{
+    font-size: x-large;
+}
+#logo2{
+    
+    height:90px ;
+    width: 170px;
+    margin-left: 10px;
+}
+#logo{
+    margin-top: 25px;
+    height:100px ;
+    width: 100px;
+    
+}
+.shopping{
+    
+    height: 150px;
+    width: 100%;
+    background-color: teal;
+}
+a{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: x-large;
+    color:white;
+    
+}
