@@ -1,6 +1,4 @@
-body{
-    background-color: teal;
-}
+
 .shopping{
    
     height: 150px;
@@ -24,5 +22,26 @@ a{
     margin-top: 20px;
     font-size: x-large;
     color:white;
+    
+}
+.about{
+    background-color: teal;
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+#abt{
+    text-align: center;
+    font-size: x-large;
+}
+#detail{
+    padding-top: 10px;
+    font-size: medium;
+    padding-left: 10px;
+}
+#aboutimage{
+    padding-left: 50PX;
     
 }
