@@ -7,7 +7,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="cart.css">
 </head>
-<body>
+<body onload="cartload()">
     <div class="shopping">
         <img id="logo" src="Snapdeal_Logo_new.png">
         <img id="logo2" src="snapdeal.png">
@@ -22,9 +22,12 @@
        
     </div>
     <div class="ourcart">
-        <p><b>Our Cart</b></p>
-        <img  id="cartimage" src="cart.png" height="200px" width="200px">
+        <h1>Our Cart</h1>
+        <p class="counter" ><span id="counter1"></span>
+            Items in Cart
+        </p>
     </div>
+    
     <script src="cart.js"></script>
 </body>
 </html>
